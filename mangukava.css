@@ -1,4 +1,11 @@
-.veerg{
-    float: left;
-    width: 50%;
+
+.rida {
+    display: flex;
   }
+  
+  .veerg {
+    flex: 50%;
+  }
+img{
+    width: 50%;
+}
