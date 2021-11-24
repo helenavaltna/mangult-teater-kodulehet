@@ -5,6 +5,7 @@
 .veerg,
 .veerg2 {
   flex: 50%;
+  position: relative;
 }
 
 .veerg2{
@@ -13,10 +14,10 @@
 .veerg2 img {
   display: block;
   margin: 0 auto;
-  width: 70%;
+  width: 75%;
   padding-bottom: 5px;
   padding-top: 5px;
-}
+  vertical-align: middle;
 
-.rida{
+  
 }
