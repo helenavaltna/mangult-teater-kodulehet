@@ -3,9 +3,11 @@
     display: flex;
   }
   
-  .veerg {
+  .veerg, .veerg2{
     flex: 50%;
   }
-img{
-    width: 50%;
+
+.veerg2 img{
+  width: 95%;
+
 }
