@@ -1,13 +1,22 @@
-
 .rida {
-    display: flex;
-  }
-  
-  .veerg, .veerg2{
-    flex: 50%;
-  }
+  display: flex;
+}
 
-.veerg2 img{
-  width: 95%;
+.veerg,
+.veerg2 {
+  flex: 50%;
+}
 
+.veerg2{
+  text-align: center;
+}
+.veerg2 img {
+  display: block;
+  margin: 0 auto;
+  width: 70%;
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+
+.rida{
 }
