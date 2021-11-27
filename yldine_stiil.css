@@ -38,12 +38,12 @@ li a:hover {
 	background-color: #111;
 }
 
- /* h1 {
+h1 {
 	padding-top: 250px;
 	background-color: rgb(139, 139, 113);
 	height: 250px;
 	text-align: center;
-}  */
+}  
 
 .active {
   background-color: #04AA6D;
