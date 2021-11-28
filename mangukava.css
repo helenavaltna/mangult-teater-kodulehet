@@ -18,3 +18,13 @@
   padding-bottom: 5px;
   padding-top: 5px;
 }
+
+.oluline-tekst, h3{
+  background-color: #F7EB08;
+  padding: 2px;
+  text-align: center;
+}
+
+.oluline{
+  font-weight: bolder;
+}
