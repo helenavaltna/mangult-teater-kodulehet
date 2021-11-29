@@ -9,6 +9,8 @@
   font-family: 'Arvo', serif;
   flex: 50%;
   position: relative;
+  padding: 50px 10px 50px 50px;
+  text-align: center;
 }
 
 .veerg2{
@@ -40,10 +42,14 @@
 }
 
 p{
-  font-size: 1.9vw;
+  font-size: 18px;;
 }
 .bold{
   font-weight: bold;
+  font-size: 18px;
 }
 
+h1 {
+  font-weight: bold;
+}
 
