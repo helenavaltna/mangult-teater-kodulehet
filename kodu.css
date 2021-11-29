@@ -13,7 +13,7 @@ img.body {
 }
 
 div.kukeldis {
-	min-height: 750px;
+	/*min-height: 750px;*/
 	padding: 0;
 	box-sizing: content-box;
 	display: block;
@@ -38,7 +38,7 @@ a.kukeldis:hover {
 }
 
 div.kukk {
-	min-height: 750px;
+	/*min-height: 750px;*/
 	padding: 0;
 	box-sizing: content-box;
 	display: block;
@@ -65,15 +65,16 @@ a.kukk:hover {
 }
 
 div.ohutus {
-	background-color: #1F4CE0;
+	background-color: #650A0A;
 	padding: 0;
 	margin: 0;
-	min-height: 750px;
+	min-height: 200px;
 	display: block;
 }
 
 div.ohutus a {
-	font-size: 50px;
+	font-size: 40px;
+	font-family: 'Arvo', serif;
 	text-decoration: none;
 	text-align: center;
 	position: absolute;
@@ -81,7 +82,7 @@ div.ohutus a {
 	left: 50%;
 	transform: translate(-50%, -50%);
 	color: white;
-	margin-top: 1500px;
+	margin-top: 1050px;
 	z-index: 1;
 	display: block;
 }
@@ -104,7 +105,8 @@ div.social.f {
 div.social.f p {
 	margin-top: 50%;
 	margin-right: 20%;
-	font-size: 20px;
+	font-size: 16px;
+	font-family: 'Arvo', serif;
 }
 
 div.social a img {
@@ -132,7 +134,8 @@ div.social.i {
 div.social.i p {
 	margin-top: 50%;
 	margin-right: 20%;
-	font-size: 20px;
+	font-size: 16px;
+	font-family: 'Arvo', serif;
 }
 
 .kontakt:after {
