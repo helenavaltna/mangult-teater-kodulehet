@@ -38,11 +38,15 @@
 }
 
 #esimene{
-  padding-top: 60px;
+  padding-top: 85px;
 }
 
 p{
+<<<<<<< HEAD
   font-size: 18px;;
+=======
+  font-size: 1.6vw;
+>>>>>>> 6cd4280149a2aa2003d3cd2dce1a42f2a8d6785b
 }
 .bold{
   font-weight: bold;
