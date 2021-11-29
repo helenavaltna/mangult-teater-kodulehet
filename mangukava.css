@@ -1,4 +1,4 @@
-.rida {
+.rida, #esimene {
   display: flex;
 }
 
@@ -18,3 +18,22 @@
   padding-bottom: 5px;
   padding-top: 5px;
 }
+
+.oluline-tekst, h1{
+  background-color: #F7EB08;
+  padding: 2px;
+  text-align: center;
+}
+
+#esimene{
+  padding-top: 60px;
+}
+
+p{
+  font-size: 1.9vw;
+}
+.bold{
+  font-weight: bold;
+}
+
+
