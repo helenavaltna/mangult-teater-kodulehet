@@ -19,7 +19,7 @@
   padding-top: 5px;
 }
 
-.oluline-tekst, h3{
+.oluline-tekst, h1{
   background-color: #F7EB08;
   padding: 2px;
   text-align: center;
@@ -30,8 +30,10 @@
 }
 
 p{
-  font-size: 2vw;
+  font-size: 1.9vw;
 }
 .bold{
   font-weight: bold;
 }
+
+
