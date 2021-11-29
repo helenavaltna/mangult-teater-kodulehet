@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
-.rida {
+.rida, #esimene {
   display: flex;
 }
 
@@ -23,7 +23,7 @@
   padding-top: 5px;
 }
 
-.oluline-tekst, h3{
+.oluline-tekst, h1{
   font-family: 'Arvo', serif;
   background-color: #EDC410;
   padding: 2px;
@@ -34,3 +34,16 @@
   font-family: 'Arvo', serif;
   font-weight: bolder;
 }
+
+#esimene{
+  padding-top: 60px;
+}
+
+p{
+  font-size: 1.9vw;
+}
+.bold{
+  font-weight: bold;
+}
+
+

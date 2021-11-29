@@ -21,7 +21,7 @@ div.kukeldis {
 
 a.kukeldis {
 	font-family: DejaVu Sans Mono, monospace;
-	font-size: 140px;
+	font-size: 10vw;
 	text-decoration: none;
 	text-align: center;
 	color: white;
@@ -47,7 +47,7 @@ div.kukk {
 a.kukk {
 	margin-top: 700px;
 	font-family: Jazz LET;
-	font-size: 240px;
+	font-size: 15vw;
 	text-decoration: none;
 	text-shadow: 3px 3px #E1D8D6;
 	text-align: center;
