@@ -1,14 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 html, body {
 	margin: 0;
 	padding: 0;
 }
 
 ul {
+	font-family: 'Arvo', serif;
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
-	background-color: #070707;
+	background-color: #650A0A;
 	position: fixed;
 	width: 100%;
 	z-index: 2;
@@ -30,19 +32,22 @@ li img {
 	height: 60px;
 	padding-left: 20px;
 	padding-right: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
 }
 
 li a:hover {
-	color: #F7EB08;
+	color: #EDC410;
 }
 
 .active {
-  color: #F7EB08;
+  color: #EDC410;
 }
 
 footer {
 	text-align: center;
-	background-color: #070707;
+	font-family: 'Arvo', serif;
+	background-color: #650A0A;
 	height: 50px;
 	padding: 10px;
 }

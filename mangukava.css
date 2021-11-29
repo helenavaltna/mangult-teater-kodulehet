@@ -1,14 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
 .rida {
   display: flex;
 }
 
 .veerg,
 .veerg2 {
+  font-family: 'Arvo', serif;
   flex: 50%;
   position: relative;
 }
 
 .veerg2{
+  font-family: 'Arvo', serif;
   text-align: center;
 }
 .veerg2 img {
@@ -20,11 +24,13 @@
 }
 
 .oluline-tekst, h3{
-  background-color: #F7EB08;
+  font-family: 'Arvo', serif;
+  background-color: #EDC410;
   padding: 2px;
   text-align: center;
 }
 
 .oluline{
+  font-family: 'Arvo', serif;
   font-weight: bolder;
 }

@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+.tekst {
+    color: black;
+    text-align: center;
+    font-family: 'Arvo', serif;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-right: 200px;
+    padding-left: 200px;
+}

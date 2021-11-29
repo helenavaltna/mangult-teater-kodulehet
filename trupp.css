@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+.nimed {
+    padding: 100px;
+    font-family: 'Arvo', serif;
+    color: black;
+    text-align: center;
+    margin-bottom: -100px;
+    font-weight: bold;
+
+}   
+
+h1 {
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}
+
+h2 {
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}
+
+.pilt{
+    width: 180px;
+	height: 180px;
+	border-radius: 100%;
+}
