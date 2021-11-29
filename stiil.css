@@ -33,7 +33,7 @@ li img {
 	padding-left: 20px;
 	padding-right: 20px;
 	padding-top: 5px;
-	padding-bottom: 5px;
+	padding-bottom: 0px;
 }
 
 li a:hover {
@@ -53,5 +53,17 @@ footer {
 }
 
 footer p {
+	color: white;
+}
+
+.footer {
+	text-align: center;
+	font-family: 'Arvo', serif;
+	background-color: #650A0A;
+	height: 50px;
+	padding: 10px;
+}
+
+.footer p {
 	color: white;
 }

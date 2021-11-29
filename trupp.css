@@ -5,6 +5,8 @@
     font-family: 'Arvo', serif;
     color: black;
     text-align: center;
+    font-weight: bold;
+
     /*margin-bottom: -100px;*/
     
 
@@ -26,4 +28,40 @@ h2 {
     width: 180px;
 	height: 180px;
 	border-radius: 100%;
+}
+
+.vasak {
+    float:left; 
+    width:33%;
+    
+}
+.keskmine{
+    float:left; 
+    width:33%;
+   
+}
+.parem{
+    float:right;
+    width:33%;
+}
+
+.vasak_viimane {
+    float:left; 
+    width:50%;
+}
+
+.parem_viimane{
+    float:right;
+    width:50%;
+}
+.footer {
+	text-align: center;
+	font-family: 'Arvo', serif;
+	background-color: #650A0A;
+	height: 50px;
+	padding: 10px;
+}
+
+.footer p {
+	color: white;
 }
